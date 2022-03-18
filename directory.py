@@ -1,5 +1,4 @@
 # Drew Martin
-# HW 10_18 on python classes
 # Create the 4 classes where all have a print directory method as stated in assignment
 # Person is superclass, the other 3 inherit parts of it, faculty also inherits directly
 # from employee because they are similar
